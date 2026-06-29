@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR3b0001/v1
+canonical_location: https://kanripo.org/bkk/KR3b0001/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 握奇經
+  date: '2015-08-24 23:02:13.347148'
+  source:
+    repository: kanripo
+    path: KR3b0001
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3b0001_000.yaml, hash: 'sha256:508084055ae010e01f81e69f1518069617ad8178bb48e333e648618f040dfe47'}
+  - {seq: 1, filename: KR3b0001_001.yaml, hash: 'sha256:060cad8608826cd30ae0d972eecafb0db4f0a46804846b7c31b63494efa65570'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3b0001_000.markers.yaml, hash: 'sha256:618d2ed92374f0bb19b17da18a8071f649ed7c64d6cd416a03b4fc250bf2483f'}
+  - {seq: 1, role: markers, filename: assets/KR3b0001_001.markers.yaml, hash: 'sha256:665291c73db3b6b5d0de395779ed61fd2a9ccdeb7062f6e356d37227792bdea4'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3b0001_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 545
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3b0001_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2228
+  label: 握奇經
+  type: section
+  level: 1
+hash: sha256:bd538909c7879984da87e687e25ea48232a851b939c0476d0cab4ddeaacdf315
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
