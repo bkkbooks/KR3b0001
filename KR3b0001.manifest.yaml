@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3b0001_000.yaml, hash: 'sha256:54b4420a91eb7c6d0a171b4f4312a7f4a5eb739aabf59ee25e9c3959c6e80d86'}
   - {seq: 1, filename: KR3b0001_001.yaml, hash: 'sha256:b56ed42babdc8c73b4079c3e87f9dfc6dcbed70d8a219c9cf87a2f5ae5aef1b0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3b0001_000.markers.yaml, hash: 'sha256:fec4e7181789057e86ce6b75f041a5fb9a5896a4161884cf48594c9087bdfd58'}
-  - {seq: 1, role: markers, filename: assets/KR3b0001_001.markers.yaml, hash: 'sha256:4191fb79026063e10d11481e0113f12568587f1c6dcebcb404b91b673ab27598'}
+  - {seq: 0, role: markers, filename: assets/KR3b0001_000.markers.yaml, hash: 'sha256:c1c536aaa954fde2470e2c1e98d86668a883dbed6032d7b9bbd223c1858d1c18'}
+  - {seq: 1, role: markers, filename: assets/KR3b0001_001.markers.yaml, hash: 'sha256:eab2675532f835244c39f1590461f28850d4313e08480d5404be76d8b26e6bbd'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 握奇經
   type: section
   level: 1
-hash: sha256:f94b2c1b5607f7efc09438ff04f9d9202ed570e597ebb4986a91f77a75208fec
+hash: sha256:ed46b2082b5c1f0892faabc61af4bceb1959c435056cf382f8e60250eb03d5b3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

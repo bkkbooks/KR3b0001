@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR3b0001_000-WYG.yaml, hash: 'sha256:0b447d9d47e3532983f77c156886c9cf049650472e6cd046a652c333b4365d7a'}
   - {seq: 1, filename: KR3b0001_001-WYG.yaml, hash: 'sha256:a606000d7cf1e7a70ecf0f87e9fd4683be4325ee847e9de6be32206d31e0e7e2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3b0001_000-WYG.markers.yaml, hash: 'sha256:22f8149b3db0dc802e1732fa8b265fe6cc92fb8579cf6783e48dc223052fc001'}
-  - {seq: 1, role: markers, filename: assets/KR3b0001_001-WYG.markers.yaml, hash: 'sha256:2ca7319ca40f169a0822ed313da4c7b388640059a4b9c2be4bc57c045d481614'}
+  - {seq: 0, role: markers, filename: assets/KR3b0001_000-WYG.markers.yaml, hash: 'sha256:8203eceab5b67d7dbf15c037986781382e1e694d5d9faeb3845211798f8682dc'}
+  - {seq: 1, role: markers, filename: assets/KR3b0001_001-WYG.markers.yaml, hash: 'sha256:13f8531adc5d9372fbd344294a979b2eaefa7c7af4667a4e7cbdaea5cf0bd83b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 握奇經
   type: section
   level: 1
-hash: sha256:2f65561a551d8ccad371514c1b0f4361a26104762a49dc3a378b6da79dd5e839
+hash: sha256:36bcf6646b0ba164a146bb1461fc74139ef437267e2694b46258b8bfb5b5324b
